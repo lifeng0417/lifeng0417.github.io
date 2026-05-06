@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lifeng Liu | Academic Homepage</title>
+    <meta
+      name="description"
+      content="Lifeng Liu's academic homepage, including research experiences, publications, and academic profiles."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Lifeng Liu | Academic Homepage" />
+    <meta
+      property="og:description"
+      content="Research experiences, publications, and academic profiles."
+    />
+    <link rel="canonical" href="https://lifeng0417.github.io/" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="主导航">
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+      </nav>
+    </header>
+
+    <main id="home">
+      <section class="hero" aria-labelledby="name">
+        <div class="hero-inner">
+          <img id="profile-photo" class="profile-photo" alt="" hidden />
+          <div>
+            <p id="title" class="eyebrow"></p>
+            <h1 id="name">Lifeng Liu</h1>
+            <p id="affiliation" class="affiliation"></p>
+            <p id="summary" class="summary"></p>
+            <div id="links" class="links" aria-label="学术链接"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="research" class="section" aria-labelledby="research-title">
+        <h2 id="research-title">Research Experiences</h2>
+        <div id="research-list" class="timeline"></div>
+      </section>
+
+      <section id="publications" class="section" aria-labelledby="publications-title">
+        <h2 id="publications-title">Publications</h2>
+        <div id="publications-list" class="publication-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span id="footer-name">Lifeng Liu</span>
+      <span>Last updated: <time id="updated-at"></time></span>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

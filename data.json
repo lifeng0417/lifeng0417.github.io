@@ -1,0 +1,37 @@
+{
+  "name": "Lifeng Liu",
+  "title": "Ph.D. Candidate",
+  "affiliation": "Nanyang Technological University · School of Electrical and Electronic Engineering S2.2-B4-02, Media Technology Lab, North Spine",
+  "siteUrl": "https://lifeng0417.github.io/",
+  "photo": "assets/profile.png",
+  "summary": "Research interests include machine learning, remote sensing, biomedical image processing, and medical image analysis.",
+  "lastUpdated": "2026-05-06",
+  "links": [
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-2384-6506"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=H48ZMAIAAAAJ&hl=en&oi=sra"
+    }
+  ],
+  "researchExperiences": [
+    "UAEU-NTU Joint Research Grants, Medical Image Processing with Deep Learning and Algebra.",
+    "Collaboration Study, An Optimized Denoising Method for Accurate Fluorescence Protein Images Intensity Correction.",
+    "5th NHG CMTi Grants, Personalized Multi-Modal Glaucoma Screening via Self-Supervised and Meta-Learning.",
+    "Master's Capstone Project, Fluid Localization in Low-quality Images of The Eye Captured with Portable Devices.",
+    "北京空间飞行器总体设计部，基于超分辨率的目标识别技术研究."
+  ],
+  "publications": [
+    "P. Zhu, L. Gao, Y. Huang, L. Liu, Z. Yang, Y. Zhang, “Frequency-Dependent Scheduled Schrödinger Bridge for Underwater Acoustic Signal Denoising,” AAAI 2026 Conference, Submission-22168, accepted in 2025/11/08.",
+    "Dai, Q., Zhang, G., Xue, B., Liu, L., & Wang, L. (2025). View Intervention and Feature Alignment Aggregation Framework for Multi-View SAR Target Recognition. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.",
+    "P. Zhu, L. Gao, Y. Zhang, Y. Huang, L. Liu, and W. Peng, “Schrödinger Bridge-Based Underwater Acoustic Signal Denoising with Exponential Decay Reference Path,” IEEE/CAA Journal of Automatica Sinica, JAS-2025-0937, submitted in 2025/7/10.",
+    "Wang, Y., Shao, Z., Lu, T., Liu, L., Huang, X., Wang, J., ... & Zeng, K. (2023). A lightweight distillation CNN-transformer architecture for remote sensing image super-resolution. International Journal of Digital Earth, 16(1), 3560-3579.",
+    "Liu, L., Liu, L., Wang, L., Wang, Y. (2025). \"Optimizing Healthcare Delivery: Leveraging Large Language Models for Pre-Consultation Interactions,\" The 27th Annual International Conference on Information Security and Cryptology (ICISC 2024). Lecture Notes in Networks and Systems, vol. 1411. Springer, Cham. https://doi.org/10.1007/978-3-031-91683-0_6",
+    "Huang, B.M., Liu, L., Wang, L., Wang, Y. (2025). \"Deep Recurrent Neural Networks for Apple Stock Price Prediction,\" The 27th Annual International Conference on Information Security and Cryptology (ICISC 2024). Lecture Notes in Networks and Systems, vol. 1411. Springer, Cham. https://doi.org/10.1007/978-3-031-91683-0_10",
+    "Zhou, F., Liu, L., Hu, H., Jin, W., Zheng, Z., Li, Z., ... & Wang, Q. (2024). “An Improved YOLO Network for Insulator and Insulator Defect Detection in UAV Images,” Photogrammetric Engineering & Remote Sensing, 90(6), 355-361.",
+    "Zhou, F., Jin, W., Ma, Y., Wen, G., Liu, L., & Zheng, Z. (2022, July). “Insulators Detection with High Resolution Images,” The 41th IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2022), Kuala Lumqur, Malaysia, 2022.7.17-7.23, (pp. 2179-2182).",
+    "Safder, Q., Zhang, H., Zhu, M., Zhou, F., He, Y., Liu, L., ... & Li, X. (2021, July). “Himawari thermal anomaly scrutiny with deep learning,” The 41th IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021), Brussels Belgium, 2021.7.12-7.16. (pp. 4904-4907)."
+  ]
+}
