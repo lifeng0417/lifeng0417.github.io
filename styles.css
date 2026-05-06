@@ -126,6 +126,7 @@ h3 {
 .affiliation {
   color: var(--muted);
   font-size: 18px;
+  white-space: pre-line;
 }
 
 .summary {
