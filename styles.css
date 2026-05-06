@@ -75,14 +75,14 @@ main {
 
 .hero-inner {
   display: grid;
-  grid-template-columns: 180px minmax(0, 1fr);
+  grid-template-columns: 220px minmax(0, 1fr);
   align-items: center;
   gap: 34px;
 }
 
 .profile-photo {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   border-radius: 8px;
   object-fit: cover;
   background: var(--line);
@@ -251,8 +251,8 @@ h3 {
   }
 
   .profile-photo {
-    width: 136px;
-    height: 136px;
+    width: 150px;
+    height: 150px;
   }
 
   h1 {
